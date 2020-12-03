@@ -6,11 +6,13 @@
 -->
 
 ## 🔭 I’m currently working on sillynium and blooper. ##
-🤡 sillynium automates the creation of Selenium Scripts via drawing on webpage elements
+🤡 
+  - sillynium automates the creation of Selenium Scripts via drawing on webpage elements
   - sillynium pro automates the creation of Selenium Scripts by combining computer vision with webpages
   - sillynium_lite is an open source version that automates the creation of Selenium Scripts via drawing on a *screenshot* of webpage elements
 
-🎬 blooper is a fun up and coming pet project
+🎬 
+  - blooper is a fun up and coming project of mine
 
 ## 🌱 I’m currently learning:
 - Python: 9 Months
