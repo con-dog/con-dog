@@ -1,5 +1,5 @@
 # Hi there 👋 - I'm Connor Talbot
-### 🎼🛠🧪 Passionate about creating *unique* projects  ###
+### 🎼🛠🧪 Passionate about creating *unique* projects 🎼🛠🧪 ###
 
 <!--
 **con-dog/con-dog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
