@@ -8,6 +8,7 @@
 ## 🔭 I’m currently working on sillynium, sillynium_lite, and blooper. ##
 🤡 sillynium is software I'm developing that automates the creation of Selenium Scripts via drawing on webpage elements
   - sillynium_lite is an open source version that automates the creation of Selenium Scripts via drawing on a screenshot of webpage elements
+
 🎬 blooper is a special up and coming pet project ;)
 
 ## 🌱 I’m currently learning:
