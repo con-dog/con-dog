@@ -16,6 +16,11 @@
 🎬 
   - blooper is a fun up and coming project of mine
 
+
+📜
+  - as you can see I enjoy incorporating wordplay into my program names!
+
+ 
 ## 🌱 I’m currently learning:
 - Python: 9 Months
 - HTML/CSS/JavaScript: 1 week :D
