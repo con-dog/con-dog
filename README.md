@@ -10,7 +10,7 @@
 **sillynium** comes in 3 flavours:
   - **sillynium**-*lite* (open source) automates the creation of Selenium Scripts via drawing on a *screenshot* of webpage elements
   - **sillynium** automates the creation of Selenium Scripts via drawing on webpage elements
-  - **sillynium**-*pro* automates the creation of Selenium Scripts by combining computer vision with webpages
+  - **sillynium**-*pro* automates the creation of Selenium Scripts by auto fetching webpage elements
 
 
 🎬 
