@@ -6,7 +6,7 @@
 -->
 
 ## I’m currently working on sillynium. ##
-- **sillynium** automates the creation of Selenium Scripts via drawing on webpage elements
+- **sillynium** automates the creation of Selenium Scripts via drawing coloured boxes on webpage elements
 
  
 ## 🌱 I’m currently learning:
