@@ -5,23 +5,11 @@
 **con-dog/con-dog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## 🔭 I’m currently working on sillynium and blooper. ##
-🤡 
-**sillynium** comes in 3 flavours:
-  - **sillynium**-*lite* (open source) automates the creation of Selenium Scripts via drawing on a *screenshot* of webpage elements
-  - **sillynium** automates the creation of Selenium Scripts via drawing on webpage elements
-  - **sillynium**-*pro* automates the creation of Selenium Scripts by auto fetching webpage elements
-
-
-🎬 
-  - blooper is a fun up and coming project of mine
-
-
-📜
-  - as you can see I enjoy incorporating wordplay into my program names!
+## I’m currently working on sillynium. ##
+- **sillynium** automates the creation of Selenium Scripts via drawing on webpage elements
 
  
 ## 🌱 I’m currently learning:
-- Python: 9 Months
-- HTML/CSS/JavaScript: 1 week :D
-- Creating Chrome Extensions
+- Python: 9 Months 👶
+- HTML/CSS/JavaScript: 2 weeks
+- Creating Chrome Extensions: 2 weeks
