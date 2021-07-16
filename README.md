@@ -6,7 +6,7 @@
 -->
 
 - I’m currently working on "Lightning"
-  - **Lightning** automates the creation of Selenium Scripts via drawing coloured boxes on webpage elements
+  - **Lightning** automates the creation of Selenium Scripts via drawing coloured boxes on webpage elements. It is a salvage project of the POC "Sillynium"
 
 
  
