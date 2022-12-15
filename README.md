@@ -1,4 +1,4 @@
 # I'm Connor #
 #### I like to develop *unique* projects ####
 
-NOTE: I am currently in the process of moving offline work to this repo so it looks a bit bare :)
+Most of what I build never sees GitHub, I just keep it local for myself :)
