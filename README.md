@@ -1,4 +1,4 @@
-# I'm C #
+# I'm Connor #
 #### I like to work on unique projects ####
 
 | Tool / Competency | Beginner | Intermediate | Advanced |
