@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=con-dog&label=Profile%20views&color=0e75b6&style=flat" alt="con-dog" /> </p>
 
-- 🔭 I’m currently working on **doggly**
+- 🔭 I’m currently working on **dbldip**, & **whichdog**
 
 - 🌱 I’m currently learning **React, TypeScript, MongoDB, C#**
 
