@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **dbldip**, & **whichdog**
 
-- 🌱 I’m currently learning **React, TypeScript, MongoDB, C#**
+- 🌱 I’m currently improving at **React, TypeScript, Storybook, MongoDB, Vite **
 
 - 📫 How to reach me **connordanielfrank@gmail.com**
 
