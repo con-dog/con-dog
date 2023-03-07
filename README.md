@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=con-dog&label=Profile%20views&color=0e75b6&style=flat" alt="con-dog" /> </p>
 
-- 🔭 I’m currently working on **dbldip**, & **whichdog**
+- 🔭 I’m currently working on **DBLDIP**
 
-- 🌱 I’m currently improving at **React, TypeScript, Storybook, MongoDB, Vite**
+- 🌱 I’m currently focusing on **Svelte/React, TypeScript, Storybook, MongoDB, Vite**
 
 - 📫 How to reach me **connordanielfrank@gmail.com**
 
