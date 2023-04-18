@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=con-dog&label=Profile%20views&color=0e75b6&style=flat" alt="con-dog" /> </p>
 
-- 🔭 I’m currently working on **devemu**
+- 🔭 I’m currently working on **devemu** - a responsive web extension
 
 - 🌱 I’m currently focusing on **Svelte/React, TypeScript, Storybook, MongoDB, Vite**
 
