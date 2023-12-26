@@ -1,5 +1,4 @@
-<h1 align="center">Connor</h1>
-<h3 align="center">Full Stack Developer from Auckland, New Zealand</h3>
+<h1 align="center">C</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=con-dog&label=Profile%20views&color=0e75b6&style=flat" alt="con-dog" /> </p>
 
