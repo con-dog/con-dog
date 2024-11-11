@@ -1,5 +1,9 @@
 <h1 align="center">C</h1>
 
+<div align="center">Why is this private? I sell the software that I build.
+<br />
+In my spare time, I’m deep-diving C for low-level graphics programming and game modification.</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=con-dog&label=Profile%20views&color=0e75b6&style=flat" alt="con-dog" /> </p>
 
 <p align="left">
