@@ -1,6 +1,7 @@
-I currently build:
-- C projects (emulators, graphics)
-- Web projects (browser extensions)
+Currently building:
+- A 2.5D raycaster             (C)
+- An 8-bit audio engine        (C)
+- An online content blocker    (TypeScript)
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="aws" width="40" height="40"/> 
