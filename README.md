@@ -1,5 +1,5 @@
 Currently building:
-- A 2.5D raycaster             (C)
+- A 2.5D raycaster             (C/C#)
 - An 8-bit audio engine        (C)
 - An online content blocker    (TypeScript)
 
