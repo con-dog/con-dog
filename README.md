@@ -1,7 +1,7 @@
 # About Me
 
-> I build weird, small, fast, and novel projects.
-> 
+I build weird, small, fast, and novel projects.
+ 
 > If it has already been done before, I'm not interested.
 >
 > If you tell me it can't be done, I will find a way to do it.
