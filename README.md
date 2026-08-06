@@ -10,6 +10,7 @@ I build weird, small, fast, and novel projects.
 
 How I choose a project to work on, and the principles I follow:
 - Deriving concepts from first principles
+- Building under self-inflicted constraints
 - Keeping concepts small enough that one person can hold the entire concept in their head
 - Pushing the boundaries of performance (high speed, tiny sizes)
 - Reducing reliance on Infrastructure (servers, databases)
