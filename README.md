@@ -8,12 +8,12 @@ I build weird, small, fast, and novel projects.
 
 # Philosophy
 
-How I tend to approach a project:
+How I approach a project:
 
 - Deriving concepts from first principles
 - Building under self-inflicted constraints
 - Keeping concepts small enough that one person can hold the entire concept in their head
-- Pushing the boundaries of performance (high speed, tiny sizes)
+- Focusing performance (high speed, tiny sizes)
 - Reducing reliance on Infrastructure (servers, databases)
 - Leaving behind long-lived inspectable artefacts (QR-codes, tiny Neural-Networks)
 
