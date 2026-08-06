@@ -8,7 +8,8 @@ I build weird, small, fast, and novel projects.
 
 # Philosophy
 
-How I choose a project to work on, and the principles I follow:
+How I tend to approach a project:
+
 - Deriving concepts from first principles
 - Building under self-inflicted constraints
 - Keeping concepts small enough that one person can hold the entire concept in their head
