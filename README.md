@@ -34,7 +34,7 @@ I build weird, small, fast projects.
   <tr>
  <td width="50%">
   <a href="https://github.com/con-dog/tiny-neural-network">
-    <img src="https://github.com/con-dog/tiny-neural-network/blob/16859961e8269773bdfeae2b39580085048f88be/media/microlex-streaming-small-fast-loop.gif" width="100%" />
+    <img src="https://github.com/con-dog/tiny-neural-network/blob/d63f6506df6b312fdcc4a93309c7d23ac528b35f/media/microlex-streaming-small-fast-loop.png" width="100%" />
   </a>
 </td>
 <td width="50%">
