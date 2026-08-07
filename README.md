@@ -21,8 +21,8 @@ I build weird, small, fast projects.
 </tr>
  <tr>
  <td width="50%">
-  <a href="https://github.com/con-dog/">
-    <img src="" width="100%" />
+  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
+    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/f3dd23af294a8b27476607e5b45a053c368c94c5/_media/chunked-raycaster-fast-small-loop.gif" width="100%" />
   </a>
 </td>
 <td width="50%">
