@@ -33,8 +33,8 @@ I build weird, small, fast projects.
 </tr>
   <tr>
  <td width="50%">
-  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
-    <img src="" width="100%" />
+  <a href="https://github.com/con-dog/tiny-neural-network">
+    <img src="https://github.com/con-dog/tiny-neural-network/blob/16859961e8269773bdfeae2b39580085048f88be/media/microlex-streaming-small-fast-loop.gif" width="100%" />
   </a>
 </td>
 <td width="50%">
