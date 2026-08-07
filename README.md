@@ -45,49 +45,28 @@ I build weird, small, fast projects.
 </tr>
 </table>
 
-
-
-
 ## Stats for Nerds 
 
 > [!NOTE]
 > All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
 
+| Compression | Description                                                                             | Project                                                                                |
+| ----------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| 1 byte      | Snibble's custom event protocol size                                                    | snibble / snibble-bench                                                                |
+| 14 bytes    | Maze-solving Neural Network solving 96.5% of unseen mazes                               | maze-solver                                                                            |
+| 20MB        | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance         | chunked-z-level-raycaster                                                              |
+| 100 bytes   | Typical snibble replay size for a 5 minute game (entire state)                          | snibble / snibble-bench                                                                |
 
-| Compression     | Description                                                                            | Project                   |
-| :-------- | :-------------------------------------------------------------------------------------- | :------------------------- |
-| 1 byte    | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
-| 14 bytes  | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
-| 20 MB     | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
-| 100 bytes | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
+| Performance | Description                                                                             | Project                                                                                |
+| :--------   | :-------------------------------------------------------------------------------------- | :-------------------------                                                             |
+| 2ms         | Performance                                                                             | Snibble's average total frame time with 256 simultaneous players (logic AND rendering) | snibble                 |
+| 30x         | Performance                                                                             | Speed of Microlex JavaScript lexical classifier vs PrismJS under equivalent benchmark  | microlex                |
+| 2048        | Quantity                                                                                | Simultaneous agents performing complex spatial/lexical/adversarial tasks at 60FPS      | snibble / snibble-bench |
 
-
-| Performance     | Description                                                                            | Project                   |
-| :-------- | :-------------------------------------------------------------------------------------- | :------------------------- |
-| 1 byte    | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
-| 14 bytes  | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
-| 20 MB     | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
-| 100 bytes | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
-
-| Accuracy     | Description                                                                            | Project                   |
-| :-------- | :-------------------------------------------------------------------------------------- | :------------------------- |
-| 1 byte    | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
-| 14 bytes  | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
-| 20 MB     | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
-| 100 bytes | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
-
-
-
-| --------- | ----------- | -------------------------------------------------------------------------------------- | ------------------------- |
-| 1 byte    | Compression | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
-| 2 ms      | Performance | Snibble's average total frame time with 256 simultaneous players (logic AND rendering) | snibble                   |
-| 14 bytes  | Compression | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
-| 20 MB     | Compression | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
-| 30x       | Performance | Speed of Microlex JavaScript lexical classifier vs PrismJS under equivalent benchmark  | microlex                  |
-| 97.3%     | Accuracy    | Blink link navigation prediction accuracy with a 10 byte Neural Network                | blink                     |
-| 100%      | Accuracy    | Exact replay accuracy for Snibble replays                                              | snibble / snibble-bench   |
-| 100 bytes | Compression | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
-| 2048      | Quantity    | Simultaneous agents performing complex spatial/lexical/adversarial tasks at 60FPS      | snibble / snibble-bench   |
+| Accuracy    | Description                                                                             | Project                                                                                |
+| :--------   | :-------------------------------------------------------------------------------------- | :-------------------------                                                             |
+| 97.3%       | Accuracy                                                                                | Blink link navigation prediction accuracy with a 10 byte Neural Network                | blink                   |
+| 100%        | Accuracy                                                                                | Exact replay accuracy for Snibble replays                                              | snibble / snibble-bench |
 
 
 ## How I Build
