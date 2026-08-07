@@ -35,6 +35,7 @@ I build weird, small, fast projects.
 
 ## Stats for Nerds 
 
+> [!NOTE]
 > All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
 
 | Value     | Category    | Description                                                                            | Project                   |
