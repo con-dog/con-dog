@@ -33,6 +33,21 @@ I build weird, small, fast projects.
 </tr>
 </table>
 
+## Stats for Nerds
+
+| Value     | Category    | Description                                                                           | Project                   |
+| --------- | ----------- | ------------------------------------------------------------------------------------- | ------------------------- |
+| 1 byte    | Compression | Snibble's custom event protocol size                                                  | snibble / snibble-bench   |
+| 2 ms      | Performance | Snibble's average total frame time with 256 simultaneous players (logic AND rendering | snibble                   |
+| 14 bytes  | Compression | Maze-solving Neural Network solving 96.5% of unseen mazes                             | maze-solver               |
+| 20 MB     | Compression | Total size for a 100×100×10 chunk raycasted world                                     | chunked-z-level-raycaster |
+| 30x       | Performance | Speed of Microlex JavaScript lexical classifier vs PrismJS under equivalent benchmark | microlex                  |
+| 97.3%     | Accuracy    | Blink link navigation prediction accuracy with a 10 byte Neural Network               | blink                     |
+| 100%      | Accuracy    | Exact replay accuracy for Snibble replays                                             | snibble / snibble-bench   |
+| 100 bytes | Compression | Typical snibble replay size (entire state)                                            | snibble / snibble-bench   |
+| 8192      | Quantity    | Simultaneous agents supported by Snibbles simulation architecture                     | snibble / snibble-bench   |
+
+
 ## How I Build
 
 - Deriving concepts from first principles
