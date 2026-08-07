@@ -33,7 +33,7 @@ I build weird, small, fast projects.
 </tr>
 </table>
 
-## Project Philosophy
+## How I Build
 
 - Deriving concepts from first principles
 - Building under constraints
