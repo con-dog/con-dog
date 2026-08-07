@@ -44,7 +44,7 @@ I build weird, small, fast projects.
 | 30x       | Performance | Speed of Microlex JavaScript lexical classifier vs PrismJS under equivalent benchmark | microlex                  |
 | 97.3%     | Accuracy    | Blink link navigation prediction accuracy with a 10 byte Neural Network               | blink                     |
 | 100%      | Accuracy    | Exact replay accuracy for Snibble replays                                             | snibble / snibble-bench   |
-| 100 bytes | Compression | Typical snibble replay size (entire state)                                            | snibble / snibble-bench   |
+| 100 bytes | Compression | Typical snibble replay size for a 5 minute game (entire state)                        | snibble / snibble-bench   |
 | 8192      | Quantity    | Simultaneous agents supported by Snibbles simulation architecture                     | snibble / snibble-bench   |
 
 
