@@ -39,7 +39,7 @@ I build weird, small, fast projects.
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
-    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/65ead8334abcfa6808033a81ad31a6898c1eb203/_media/textured-raycaster-small-fast-loop.png" width="100%">
+    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/c6938be737d391198486f63293125aaf36d9a0c0/_media/textured-raycaster-small-fast-loop.png" width="100%">
   </a>
 </td>
 </tr>
