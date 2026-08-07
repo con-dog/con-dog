@@ -1,4 +1,4 @@
-# About Me
+# Me
 
 I build weird, small, fast projects.
  
@@ -6,13 +6,13 @@ I build weird, small, fast projects.
 >
 > If you tell me it can't be done, I will find a way to do it.
 
-# Project Ideas
+# Project Philosophy
 
 - Deriving concepts from first principles
 - Building under constraints
-- Keeping concepts small enough such that one person can hold the concept in their head
-- Focusing on performance (high speed, tiny sizes)
-- Removing layers (servers, databases)
+- Simplifying concepts to hold the whole model in my head
+- Focusing on performance (highest speeds, tiniest sizes)
+- Removing conventional layers (servers, databases)
 
 <img src="https://github.com/con-dog/snibble-writeup/blob/5c70cc4fc8c0c9b161a91dffd8f7b2b6ceabf181/media/snibble-main-loop-readme-content.gif" width="800" height="400" />
 
