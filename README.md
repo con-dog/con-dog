@@ -22,8 +22,8 @@ I build weird, small, fast projects.
   </a>
 </td>
  <td width="50%">
-  <a href="https://github.com/con-dog/tiny-neural-network">
-    <img src="https://github.com/con-dog/snibble-writeup/blob/5c70cc4fc8c0c9b161a91dffd8f7b2b6ceabf181/media/snibble-main-loop-readme-content.gif" width="100%" />
+  <a href="https://github.com/con-dog/snibble">
+    <img src="https://github.com/con-dog/snibble/blob/af25b8c61e08a45a558e1af1746428e854fffd53/media/snibble-fast-small-loop-2.gif" width="100%" />
   </a>
 </td>
 </tr>
