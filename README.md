@@ -37,7 +37,7 @@ I build weird, small, fast projects.
 
 - Deriving concepts from first principles
 - Building under constraints
-- Simplifying concepts to hold the whole model in my head
+- Simplifying concepts to hold the whole model in-memory
 - Focusing on performance (highest speeds, tiniest sizes)
 - Removing conventional layers (servers, databases)
 
