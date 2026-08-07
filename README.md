@@ -15,7 +15,7 @@ I build weird, small, fast projects.
 </td>
  <td width="50%">
   <a href="https://github.com/con-dog/snibble">
-    <img src="https://github.com/con-dog/snibble/blob/af25b8c61e08a45a558e1af1746428e854fffd53/media/snibble-fast-small-loop-2.gif" width="100%" />
+    <img src="https://github.com/con-dog/snibble/blob/6c9ac71ac51988b272f2d602777e082b283c80e7/media/snibble-fast-small-loop-3.png" width="100%" />
   </a>
 </td>
 </tr>
