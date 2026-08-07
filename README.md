@@ -14,6 +14,17 @@ I build weird, small, fast projects.
 - Focusing on performance (highest speeds, tiniest sizes)
 - Removing conventional layers (servers, databases)
 
-<img src="https://github.com/con-dog/snibble-writeup/blob/5c70cc4fc8c0c9b161a91dffd8f7b2b6ceabf181/media/snibble-main-loop-readme-content.gif" width="800" height="400" />
-
-<img src="https://github.com/con-dog/2.5D-raycasting-engine/blob/bbd244dfad4aa5922a7ad20163d3f4f63874540f/_media/phase-5/doors.gif" width="800" height="400" />
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/con-dog/tiny-neural-network">
+    <img src="https://github.com/con-dog/tiny-neural-network/blob/e426e5697f03a2b58130dd5c4fa71ba16e0884e2/media/maze-solver-fast-small-loop.gif" width="100%">
+  </a>
+</td>
+ <td width="50%">
+  <a href="https://github.com/con-dog/tiny-neural-network">
+    <img src="https://github.com/con-dog/snibble-writeup/blob/5c70cc4fc8c0c9b161a91dffd8f7b2b6ceabf181/media/snibble-main-loop-readme-content.gif" width="100%" />
+  </a>
+</td>
+</tr>
+</table>
