@@ -6,14 +6,6 @@ I build weird, small, fast projects.
 >
 > If you tell me it can't be done, I will try to find a way to do it.
 
-# Project Philosophy
-
-- Deriving concepts from first principles
-- Building under constraints
-- Simplifying concepts to hold the whole model in my head
-- Focusing on performance (highest speeds, tiniest sizes)
-- Removing conventional layers (servers, databases)
-
 <table>
 <tr>
 <td width="50%">
@@ -28,3 +20,13 @@ I build weird, small, fast projects.
 </td>
 </tr>
 </table>
+
+## Project Philosophy
+
+- Deriving concepts from first principles
+- Building under constraints
+- Simplifying concepts to hold the whole model in my head
+- Focusing on performance (highest speeds, tiniest sizes)
+- Removing conventional layers (servers, databases)
+
+
