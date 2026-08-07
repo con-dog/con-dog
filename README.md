@@ -33,7 +33,9 @@ I build weird, small, fast projects.
 </tr>
 </table>
 
-## Stats for Nerds
+## Stats for Nerds 
+
+> All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
 
 | Value     | Category    | Description                                                                            | Project                   |
 | --------- | ----------- | -------------------------------------------------------------------------------------- | ------------------------- |
@@ -45,7 +47,7 @@ I build weird, small, fast projects.
 | 97.3%     | Accuracy    | Blink link navigation prediction accuracy with a 10 byte Neural Network                | blink                     |
 | 100%      | Accuracy    | Exact replay accuracy for Snibble replays                                              | snibble / snibble-bench   |
 | 100 bytes | Compression | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
-| 8192      | Quantity    | Simultaneous agents supported by Snibbles simulation architecture                      | snibble / snibble-bench   |
+| 2048      | Quantity    | Simultaneous agents performing complex spatial/lexical/adversarial tasks at 60FPS      | snibble / snibble-bench   |
 
 
 ## How I Build
