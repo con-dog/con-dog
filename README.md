@@ -2,9 +2,9 @@
 
 I build weird, small, fast projects.
  
-> If it has already been done before, I'm not interested.
+> If it has already been done before, I'm (probably) not interested.
 >
-> If you tell me it can't be done, I will find a way to do it.
+> If you tell me it can't be done, I will try to find a way to do it.
 
 # Project Philosophy
 
