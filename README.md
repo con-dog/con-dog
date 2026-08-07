@@ -38,7 +38,31 @@ I build weird, small, fast projects.
 > [!NOTE]
 > All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
 
-| Value     | Category    | Description                                                                            | Project                   |
+
+| Compression     | Description                                                                            | Project                   |
+| :-------- | :-------------------------------------------------------------------------------------- | :------------------------- |
+| 1 byte    | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
+| 14 bytes  | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
+| 20 MB     | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
+| 100 bytes | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
+
+
+| Performance     | Description                                                                            | Project                   |
+| :-------- | :-------------------------------------------------------------------------------------- | :------------------------- |
+| 1 byte    | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
+| 14 bytes  | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
+| 20 MB     | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
+| 100 bytes | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
+
+| Accuracy     | Description                                                                            | Project                   |
+| :-------- | :-------------------------------------------------------------------------------------- | :------------------------- |
+| 1 byte    | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
+| 14 bytes  | Maze-solving Neural Network solving 96.5% of unseen mazes                              | maze-solver               |
+| 20 MB     | Total size for a 100×100×10 chunk ray-casted world with O(1) lookup performance        | chunked-z-level-raycaster |
+| 100 bytes | Typical snibble replay size for a 5 minute game (entire state)                         | snibble / snibble-bench   |
+
+
+
 | --------- | ----------- | -------------------------------------------------------------------------------------- | ------------------------- |
 | 1 byte    | Compression | Snibble's custom event protocol size                                                   | snibble / snibble-bench   |
 | 2 ms      | Performance | Snibble's average total frame time with 256 simultaneous players (logic AND rendering) | snibble                   |
