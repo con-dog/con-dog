@@ -52,7 +52,7 @@ I build weird, small, fast projects.
 > All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
 
 > [!WARNING]
-> This is an active work in progress. Some benchmarks and claims change as I continue to revisit and expand / compress projects
+> Some benchmarks and claims change as I continue to revisit and expand / compress projects
 
 <table>
   <tr>
