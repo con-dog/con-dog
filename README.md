@@ -6,6 +6,8 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 > If it has already been done before, I'm (probably) not interested.
 >
 > If you tell me it can't be done, I will try to find a way to do it.
+>
+> I write in a `Stream of consciousness` style so expect grammatical errors, mistakes, and other superfluous issues throughout my projects that I won't fix anytime soon.
 
 <table>
 <tr>
@@ -142,11 +144,13 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 > New problem: My execution can now outpace understanding.
 >
 > I'm learning to navigate this problem in newer projects.
+>
+> I use LLMs for code, not for writing.
 
 ## Communication
 
 > [!CAUTION]
 > Include "con-dog" in your email title else your email will be filtered straight to spam.
 > 
-> Reach me on [github.com.shrink059@passmail.net (email alias)](github.com.shrink059@passmail.net)
+> Reach me on [github.com.shrink059@passmail.net (email alias)](mailto:github.com.shrink059@passmail.net)
 
