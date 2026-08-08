@@ -128,7 +128,6 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
   </tr>
 </table>
 
-
 ## How
 
 - Focusing on performance (highest speeds, tiniest sizes)
@@ -144,4 +143,10 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 >
 > I'm learning to navigate this problem in newer projects.
 
+## Reach Me 
+
+> [!CAUTION]
+> Include "con-dog" in your email title else your email will be filtered straight to spam.
+> 
+> Reach me on [github.com.shrink059@passmail.net (email alias)](github.com.shrink059@passmail.net)
 
