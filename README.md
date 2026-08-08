@@ -1,7 +1,8 @@
 # Me
 
 I build weird, small, fast projects.
- 
+
+> [!NOTE]
 > If it has already been done before, I'm (probably) not interested.
 >
 > If you tell me it can't be done, I will try to find a way to do it.
