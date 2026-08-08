@@ -143,7 +143,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 >
 > I'm learning to navigate this problem in newer projects.
 
-## Reach Me 
+## Communication
 
 > [!CAUTION]
 > Include "con-dog" in your email title else your email will be filtered straight to spam.
