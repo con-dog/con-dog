@@ -129,7 +129,7 @@ I build weird, small, fast projects.
 </table>
 
 
-## How I Build
+## How
 
 - Focusing on performance (highest speeds, tiniest sizes)
 - Removing conventional layers (servers, databases)
