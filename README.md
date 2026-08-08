@@ -1,6 +1,6 @@
 # Me
 
-I build weird, small, fast projects.
+I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
 > [!NOTE]
 > If it has already been done before, I'm (probably) not interested.
