@@ -10,13 +10,13 @@ I build weird, small, fast projects.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/con-dog/tiny-neural-network">
+  <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
     <img src="https://github.com/con-dog/tiny-neural-network/blob/0394b2ac5ad294de34de6aabf0a0178340d82ce7/media/maze-solver-fast-small-loop.png" width="100%">
   </a>
 </td>
  <td width="50%">
-  <a href="https://github.com/con-dog/snibble">
-    <img src="https://github.com/con-dog/snibble/blob/6c9ac71ac51988b272f2d602777e082b283c80e7/media/snibble-fast-small-loop-3.png" width="100%" />
+  <a href="https://github.com/con-dog/snibble/blob/master/README.md">
+    <img src="https://github.com/con-dog/snibble/blob/e89a7bc3c6a0349a0df5b606baf1b8e881d8bfb6/media/snibble-small-fast-with-qr.png" width="100%" />
   </a>
 </td>
 </tr>
@@ -27,14 +27,14 @@ I build weird, small, fast projects.
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/con-dog/snibble-bench-demo">
+  <a href="https://github.com/con-dog/snibble-bench-demo/blob/master/README.md">
     <img src="https://github.com/con-dog/snibble-bench-demo/blob/d58209572b00a88d7391b1bdf6ebcbcdae949877/media/snibble-bench-fast-small-loop.png" width="100%">
   </a>
 </td>
 </tr>
   <tr>
  <td width="50%">
-  <a href="https://github.com/con-dog/tiny-neural-network">
+  <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
     <img src="https://github.com/con-dog/tiny-neural-network/blob/d63f6506df6b312fdcc4a93309c7d23ac528b35f/media/microlex-streaming-small-fast-loop.png" width="100%" />
   </a>
 </td>
