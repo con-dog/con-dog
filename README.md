@@ -141,5 +141,7 @@ I build weird, small, fast projects.
 > Old problem: My idea generation outpaced my execution.
 >
 > New problem: My execution can now outpace understanding.
+>
+> I'm learning to navigate this problem in newer projects.
 
 
