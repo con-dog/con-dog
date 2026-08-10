@@ -144,8 +144,6 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 > New problem: My execution can now outpace understanding.
 >
 > I'm learning to navigate this problem in newer projects.
->
-> I use LLMs for code, not for writing.
 
 ## Communication
 
