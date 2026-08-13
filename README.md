@@ -24,12 +24,12 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </tr>
 <tr>
 <td width="50%">
-  <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
+  <a href="https://github.com/con-dog/slices-demo/blob/main/README.md">
     <img src="https://github.com/con-dog/slices-demo/blob/f4ab8cf30217e235841b5f577fd490c93c545459/media/slices-short-small-silo-pool.png" width="100%">
   </a>
 </td>
  <td width="50%">
-  <a href="https://github.com/con-dog/snibble/blob/master/README.md">
+  <a href="https://github.com/con-dog/slices-demo/blob/main/README.md">
     <img src="https://github.com/con-dog/slices-demo/blob/f4ab8cf30217e235841b5f577fd490c93c545459/media/slices-short-small-conways.png" width="100%" />
   </a>
 </td>
