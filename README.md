@@ -12,8 +12,8 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 <table>
 <tr>
 <td width="100%">
-  <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
-    <img src="https://github.com/con-dog/wurld.gg/blob/1bfacdf7771532fed6f18dc3086e9f5520761ca2/media/look-at-word-square.gif" width="100%">
+  <a href="https://github.com/con-dog/wurld.gg/blob/master/README.md">
+    <img src="https://github.com/con-dog/wurld.gg/blob/a2dc57ec0685cff27300764196e9af74f316566c/media/look-at-word-square.png" width="100%">
   </a>
 </td>
 </tr>
