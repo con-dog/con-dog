@@ -11,6 +11,13 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
 <table>
 <tr>
+<td width="100%">
+  <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
+    <img src="https://github.com/con-dog/tiny-neural-network/blob/0394b2ac5ad294de34de6aabf0a0178340d82ce7/media/maze-solver-fast-small-loop.png" width="100%">
+  </a>
+</td>
+</tr>
+<tr>
 <td width="50%">
   <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
     <img src="https://github.com/con-dog/tiny-neural-network/blob/0394b2ac5ad294de34de6aabf0a0178340d82ce7/media/maze-solver-fast-small-loop.png" width="100%">
