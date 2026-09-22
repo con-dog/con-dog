@@ -10,16 +10,17 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 > I write in a `Stream of consciousness` style, so expect grammatical errors, mistakes, and other superfluous language issues throughout my projects.
 
 <table>
-<tr>
-<td width="100%">
-  <a href="https://github.com/con-dog/wurld.gg/blob/master/README.md">
-    <img src="https://github.com/con-dog/wurld.gg/blob/a2dc57ec0685cff27300764196e9af74f316566c/media/look-at-word-square.png" width="100%">
-  </a>
-</td>
-</tr>
+
 </table>
 
 <table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/con-dog/wurld.gg/blob/master/README.md">
+    <img src="https://github.com/con-dog/wurld.gg/blob/4a777215fffe8eb32019510048c00cd065ce19f5/media/unprocessed-media/moving/final.png" width="100%">
+  </a>
+</td>
+</tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
