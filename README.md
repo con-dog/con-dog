@@ -17,8 +17,6 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <img src="https://github.com/con-dog/dwarves-and-dice/blob/95357e1ee9abe1194c2e4b40d9c84f0ac634d0d6/media/gifs/prettier-final.gif.png" width="100%">
   </a>
 </td>
-</tr>
-<tr>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
     <img src="https://github.com/con-dog/dwarves-and-dice/blob/9509c02fc6629ec0ff695402906f8614f41c9dbb/media/gifs/dwarves.gif.png" width="100%">
