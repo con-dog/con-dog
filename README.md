@@ -96,6 +96,11 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <td>snibble / snibble-bench</td>
   </tr>
   <tr>
+    <td>5 keys</td>
+    <td>DigDice's entire control mapping scheme (←↑→↓␣) handling 10+ actions and movement</td>
+    <td>dig-dice</td>
+  </tr>
+  <tr>
     <td>14 bytes</td>
     <td>Maze-solving Neural Network solving 96.5% of unseen mazes</td>
     <td>maze-solver</td>
