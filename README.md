@@ -34,41 +34,28 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </td>
 </tr>
 <tr>
+      <td width="50%">
+  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
+    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/75acf3fb3f56c42ebaec1726f834c10b839fb6dc/_media/chunked-raycaster-fast-small-loop.png" width="100%" />
+  </a>
+</td>
 <td width="50%">
   <a href="https://github.com/con-dog/slices-demo/blob/main/README.md">
     <img src="https://github.com/con-dog/slices-demo/blob/f4ab8cf30217e235841b5f577fd490c93c545459/media/slices-short-small-silo-pool.png" width="100%">
   </a>
 </td>
- <td width="50%">
-  <a href="https://github.com/con-dog/slices-demo/blob/main/README.md">
-    <img src="https://github.com/con-dog/slices-demo/blob/f4ab8cf30217e235841b5f577fd490c93c545459/media/slices-short-small-conways.png" width="100%" />
-  </a>
-</td>
+     
 </tr>
  <tr>
-<td width="50%">
-  <a href="https://github.com/con-dog/snibble-bench-demo/blob/master/README.md">
-    <img src="https://github.com/con-dog/snibble-bench-demo/blob/d58209572b00a88d7391b1bdf6ebcbcdae949877/media/snibble-bench-fast-small-loop.png" width="100%">
-  </a>
-</td>
-    <td width="50%">
-  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
-    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/75acf3fb3f56c42ebaec1726f834c10b839fb6dc/_media/chunked-raycaster-fast-small-loop.png" width="100%" />
-  </a>
-</td>
-</tr>
-  <tr>
-    <td width="50%">
-  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
-    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/c6938be737d391198486f63293125aaf36d9a0c0/_media/textured-raycaster-small-fast-loop.png" width="100%">
-  </a>
-</td>
  <td width="50%">
   <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
     <img src="https://github.com/con-dog/tiny-neural-network/blob/d63f6506df6b312fdcc4a93309c7d23ac528b35f/media/microlex-streaming-small-fast-loop.png" width="100%" />
   </a>
+<td width="50%">
+  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
+    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/c6938be737d391198486f63293125aaf36d9a0c0/_media/textured-raycaster-small-fast-loop.png" width="100%">
+  </a>
 </td>
-
 </tr>
 </table>
 
