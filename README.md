@@ -152,15 +152,6 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 - Removing conventional layers (servers, databases)
 - Under heavy self-inflicted constraints (e.g. "can this fit in a QR Code?")
 
-> [!WARNING]
-> I’ve used LLMs heavily since 2026 to speed up experimentation.
-> 
-> Old problem: My idea generation outpaced my execution.
->
-> New problem: My execution can now outpace understanding.
->
-> I'm learning to navigate this problem in newer projects.
-
 ## Communication
 
 > [!CAUTION]
