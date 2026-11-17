@@ -2,12 +2,6 @@
 
 I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
-> [!NOTE]
-> If it hasn't been done before, I'm interested.
->
-> If you tell me it can't be done, I will try to find a way to do it.
-
-
 <table>
 <tr>
 <td width="50%">
