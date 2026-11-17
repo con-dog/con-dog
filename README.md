@@ -16,7 +16,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
+  <a href="https://github.com/con-dog/clingon/blob/master/README.md">
     <img src="https://github.com/con-dog/clingon/blob/8becb09bd06ee80a979c26e90c65506e93885c8a/media/clingon.gif.png" width="100%">
   </a>
 </td>
