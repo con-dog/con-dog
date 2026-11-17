@@ -53,13 +53,12 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </tr>
 </table>
 
-## Stats for Nerds 
-
-> [!NOTE]
-> All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
+## Stats
 
 > [!WARNING]
-> Some benchmarks and claims change as I continue to revisit and expand / compress projects
+> All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
+> 
+> Some benchmarks and claims change as I revisit projects and may become out of date
 
 <table>
   <tr>
@@ -81,8 +80,8 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <td>dig-dice</td>
   </tr>
   <tr>
-    <td>14 bytes</td>
-    <td>Maze-solving Neural Network solving 96.5% of unseen mazes</td>
+    <td>18 bytes</td>
+    <td>Maze-solving Neural Network solving 99% of unseen mazes</td>
     <td>maze-solver</td>
   </tr>
   <tr>
@@ -139,17 +138,4 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <td>snibble / snibble-bench</td>
   </tr>
 </table>
-
-## How
-
-- Focusing on performance (highest speeds, tiniest sizes)
-- Removing conventional layers (servers, databases)
-- Under heavy self-inflicted constraints (e.g. "can this fit in a QR Code?")
-
-## Communication
-
-> [!CAUTION]
-> Include "con-dog" in your email title else your email will be filtered straight to spam.
-> 
-> Reach me on [github.com.shrink059@passmail.net (email alias)](mailto:github.com.shrink059@passmail.net)
 
