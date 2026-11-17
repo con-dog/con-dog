@@ -38,7 +38,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <img src="https://github.com/con-dog/slices-demo/blob/f4ab8cf30217e235841b5f577fd490c93c545459/media/slices-short-small-silo-pool.png" width="100%">
   </a>
 </td>
-     
+
 </tr>
  <tr>
  <td width="50%">
@@ -57,7 +57,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
 > [!WARNING]
 > All benchmarks performed on a 2021 MacBook Pro with 16GB RAM
-> 
+>
 > Some benchmarks and claims change as I revisit projects and may become out of date
 
 <table>
@@ -68,6 +68,16 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <th align="left">Metric</th>
     <th align="left">Description</th>
     <th align="left">Project</th>
+  </tr>
+  <tr>
+    <td>0 files</td>
+    <td>Texture and map assets shipped with DigDice - every texel and every world is generated from a seed</td>
+    <td>dig-dice</td>
+  </tr>
+  <tr>
+    <td>1 bit</td>
+    <td>A wall in the raycaster's chunked world map (a vertical stack of 16 walls fits in 2 bytes)</td>
+    <td>chunked-z-level-raycaster</td>
   </tr>
   <tr>
     <td>1 byte</td>
@@ -90,9 +100,19 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <td>chunked-z-level-raycaster</td>
   </tr>
   <tr>
+    <td>44 bytes</td>
+    <td>Tether's entire memory: a maze walker with no map and no coordinates, on any grid under 67 million cells</td>
+    <td>tether</td>
+  </tr>
+  <tr>
     <td>100 bytes</td>
     <td>Typical Snibble replay size for a 5 minute game (entire state)</td>
     <td>snibble / snibble-bench</td>
+  </tr>
+  <tr>
+    <td>369 bytes</td>
+    <td>Microlex's entire syntax-highlighting engine; each language adds a 37-178 byte state machine</td>
+    <td>microlex</td>
   </tr>
 
   <tr>
@@ -110,7 +130,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
   </tr>
   <tr>
     <td>30x</td>
-    <td>Speed of Microlex JavaScript lexical classifier vs PrismJS under equivalent benchmark</td>
+    <td>Speed of Microlex JavaScript lexical classifier vs PrismJS under equivalent benchmark (99.6% per-character agreement)</td>
     <td>microlex</td>
   </tr>
   <tr>
@@ -128,8 +148,13 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <th align="left">Project</th>
   </tr>
   <tr>
+    <td>89.9%</td>
+    <td>Unseen mazes (up to 161×161, plus 1,600+ step game-map routes) Tether solves within 10× the shortest route, from four wall bits and one goal-direction bit - ahead of every Bug algorithm tested, all of which are told their position</td>
+    <td>tether</td>
+  </tr>
+  <tr>
     <td>97.3%</td>
-    <td>Blink link navigation prediction accuracy with a 10 byte Neural Network</td>
+    <td>Blink link navigation prediction accuracy with a 10 byte Neural Network (best hand-written heuristic: 66.2%)</td>
     <td>blink</td>
   </tr>
   <tr>
@@ -138,4 +163,3 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <td>snibble / snibble-bench</td>
   </tr>
 </table>
-
