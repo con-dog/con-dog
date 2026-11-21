@@ -4,7 +4,34 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
 ## Current Project
 
+**[DigDice](https://github.com/con-dog/dwarves-and-dice)**: a first-person dice game where the dice are blocks in the world. You dig them out, carry them, and build poker hands with them.
 
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/jackpot.svg" width="100%" alt="A pair of fours finished in the grove at dusk: a dwarf sets the second die, rays pour up and the score jumps">
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/mining-tpv.svg" width="100%" alt="A dwarf swings at a die set in a wall until it cracks loose">
+  </a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/whack-tpv.svg" width="100%" alt="Night in the grove: a whack lands on a dwarf and a die drops out of their tray">
+  </a>
+</td>
+<td width="50%">
+  <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/scale-reveal.svg" width="100%" alt="Three generated worlds as small models, for two, four and eight players">
+  </a>
+</td>
+</tr>
+</table>
 
 ## Small Showcase
 
