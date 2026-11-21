@@ -27,7 +27,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/mining-tpv.svg" width="100%" alt="A dwarf swings at a die set in a wall until it cracks loose">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/grove-tour.svg" width="100%" alt="A tour of one generated world, the grove: the camera moves in on its shrines and dwarves, stop by stop">
   </a>
 </td>
 </tr>
