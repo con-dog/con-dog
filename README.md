@@ -59,6 +59,12 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
   </a>
 </p>
 
+<p>
+  <a href="https://github.com/con-dog/slices-demo/blob/main/README.md">
+    <img src="https://github.com/con-dog/con-dog/blob/b62ed085cc488ad155326dbd087ea1f08331f444/media/slices-invaders.gif.png" width="100%" alt="Slices: Space Invaders plays itself on the left; on the right, the slice that drops the bombs and the slice that marches the invaders light up as their facts land in the pool">
+  </a>
+</p>
+
 ## Stats
 
 > [!WARNING]
