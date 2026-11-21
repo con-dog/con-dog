@@ -4,7 +4,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
 ## Current Project
 
-**[DigDice](https://github.com/con-dog/dwarves-and-dice)**: a first-person dice game where the dice are blocks in the world. You dig them out, carry them, and build poker hands with them.
+**[DigDice](https://github.com/con-dog/dwarves-and-dice)**: a Steam first-person dice game inspired by Minecraft and Wolfenstein3D. You mine dice, build hands, and roll them to score points. Every world is generated from a seed, and every texel is generated from a seed, so the game ships with 0 asset files.
 
 <table>
 <tr>
