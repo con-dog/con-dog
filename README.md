@@ -15,7 +15,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/con-dog/blob/47a397aa23c0023e95bcd193497e452bdae92906/media/digdice-map-reel.svg" width="100%" alt="A reel of generated maps as small models, one after another: pillars, quarry, city, islands and canyons">
+    <img src="https://github.com/con-dog/con-dog/blob/94cb3a10f1b57eaa395762c12b4f750a94b57024/media/digdice-map-reel.svg" width="100%" alt="A reel of all fifteen generated maps as small models, one after another, each named: pillars, islands, quarry, canyons, city and ten more">
   </a>
 </td>
 </tr>
