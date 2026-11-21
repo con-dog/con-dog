@@ -2,31 +2,31 @@
 
 I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
-<table>
-<tr>
-<td width="50%">
+<p>
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/bcd2c5702a6a93168555fa517f148308d9c32b89/media/gifs/grove-dusk-jackpot.gif.png" width="100%">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/bcd2c5702a6a93168555fa517f148308d9c32b89/media/gifs/hatch-tpv.gif.png" width="100%" alt="DigDice: eggs crack open at the foot of a pyramid and dwarves burst out among the dice">
   </a>
-</td>
-<td width="50%">
+</p>
+
+<p>
   <a href="https://github.com/con-dog/clingon/blob/master/README.md">
-    <img src="https://github.com/con-dog/clingon/blob/36d52c17fe6a16b1cff577e3c94bab55336d9bc3/media/films/19-ai-pretty-log.gif.png" width="100%">
+    <img src="https://github.com/con-dog/clingon/blob/36d52c17fe6a16b1cff577e3c94bab55336d9bc3/media/films/19-ai-pretty-log.gif.png" width="100%" alt="Clingon: its AI is asked for the last ten commits as a graph, finds the command in the menu and runs it in the shell">
   </a>
-</td>
-</tr>
-<tr>
-<td width="50%">
+</p>
+
+<p>
   <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
-    <img src="https://github.com/con-dog/tiny-neural-network/blob/ba3df3072b7e05a409ddd7ddc62054cd44798329/media/films/05-net18-obstacles-25x25-s5000186-duo.gif.png" width="100%">
+    <img src="https://github.com/con-dog/tiny-neural-network/blob/ba3df3072b7e05a409ddd7ddc62054cd44798329/media/films/05-net18-obstacles-25x25-s5000186-duo.gif.png" width="100%" alt="Minimio: an 18-byte neural network finds its way across a field of obstacles, its neurons shown firing beside the maze">
   </a>
-</td>
- <td width="50%">
+</p>
+
+<p>
   <a href="https://github.com/con-dog/snibble/blob/master/README.md">
-    <img src="https://github.com/con-dog/snibble/blob/d35e4fad87aa6aa0601ec546ed555a1028e2a615/media/films/16-submit-quandary-22pts-s59b8.gif.png" width="100%" />
+    <img src="https://github.com/con-dog/snibble/blob/d35e4fad87aa6aa0601ec546ed555a1028e2a615/media/films/16-submit-quandary-22pts-s59b8.gif.png" width="100%" alt="Snibble: a snake spells QUANDARY, eats its own tail to hand it in, and scores 22">
   </a>
-</td>
-</tr>
+</p>
+
+<table>
 <tr>
       <td width="50%">
   <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
@@ -45,6 +45,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
   <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
     <img src="https://github.com/con-dog/tiny-neural-network/blob/d63f6506df6b312fdcc4a93309c7d23ac528b35f/media/microlex-streaming-small-fast-loop.png" width="100%" />
   </a>
+</td>
 <td width="50%">
   <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
     <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/c6938be737d391198486f63293125aaf36d9a0c0/_media/textured-raycaster-small-fast-loop.png" width="100%">
