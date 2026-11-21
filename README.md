@@ -6,24 +6,24 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/95357e1ee9abe1194c2e4b40d9c84f0ac634d0d6/media/gifs/prettier-final.gif.png" width="100%">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/bcd2c5702a6a93168555fa517f148308d9c32b89/media/gifs/grove-dusk-jackpot.gif.png" width="100%">
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/clingon/blob/master/README.md">
-    <img src="https://github.com/con-dog/clingon/blob/8becb09bd06ee80a979c26e90c65506e93885c8a/media/clingon.gif.png" width="100%">
+    <img src="https://github.com/con-dog/clingon/blob/36d52c17fe6a16b1cff577e3c94bab55336d9bc3/media/films/19-ai-pretty-log.gif.png" width="100%">
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
-    <img src="https://github.com/con-dog/tiny-neural-network/blob/0394b2ac5ad294de34de6aabf0a0178340d82ce7/media/maze-solver-fast-small-loop.png" width="100%">
+    <img src="https://github.com/con-dog/tiny-neural-network/blob/ba3df3072b7e05a409ddd7ddc62054cd44798329/media/films/05-net18-obstacles-25x25-s5000186-duo.gif.png" width="100%">
   </a>
 </td>
  <td width="50%">
   <a href="https://github.com/con-dog/snibble/blob/master/README.md">
-    <img src="https://github.com/con-dog/snibble/blob/e89a7bc3c6a0349a0df5b606baf1b8e881d8bfb6/media/snibble-small-fast-with-qr.png" width="100%" />
+    <img src="https://github.com/con-dog/snibble/blob/d35e4fad87aa6aa0601ec546ed555a1028e2a615/media/films/16-submit-quandary-22pts-s59b8.gif.png" width="100%" />
   </a>
 </td>
 </tr>
