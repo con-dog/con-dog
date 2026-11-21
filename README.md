@@ -2,6 +2,12 @@
 
 I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
+## Current Project
+
+
+
+## Small Showcase
+
 <p>
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
     <img src="https://github.com/con-dog/dwarves-and-dice/blob/bcd2c5702a6a93168555fa517f148308d9c32b89/media/gifs/hatch-tpv.gif.png" width="100%" alt="DigDice: eggs crack open at the foot of a pyramid and dwarves burst out among the dice">
@@ -25,34 +31,6 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
     <img src="https://github.com/con-dog/snibble/blob/d35e4fad87aa6aa0601ec546ed555a1028e2a615/media/films/16-submit-quandary-22pts-s59b8.gif.png" width="100%" alt="Snibble: a snake spells QUANDARY, eats its own tail to hand it in, and scores 22">
   </a>
 </p>
-
-<table>
-<tr>
-      <td width="50%">
-  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
-    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/75acf3fb3f56c42ebaec1726f834c10b839fb6dc/_media/chunked-raycaster-fast-small-loop.png" width="100%" />
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/con-dog/slices-demo/blob/main/README.md">
-    <img src="https://github.com/con-dog/slices-demo/blob/f4ab8cf30217e235841b5f577fd490c93c545459/media/slices-short-small-silo-pool.png" width="100%">
-  </a>
-</td>
-
-</tr>
- <tr>
- <td width="50%">
-  <a href="https://github.com/con-dog/tiny-neural-network/blob/master/README.md">
-    <img src="https://github.com/con-dog/tiny-neural-network/blob/d63f6506df6b312fdcc4a93309c7d23ac528b35f/media/microlex-streaming-small-fast-loop.png" width="100%" />
-  </a>
-</td>
-<td width="50%">
-  <a href="https://github.com/con-dog/chunked-z-level-raycaster/blob/master/README.md">
-    <img src="https://github.com/con-dog/chunked-z-level-raycaster/blob/c6938be737d391198486f63293125aaf36d9a0c0/_media/textured-raycaster-small-fast-loop.png" width="100%">
-  </a>
-</td>
-</tr>
-</table>
 
 ## Stats
 
