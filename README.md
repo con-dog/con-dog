@@ -15,7 +15,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/mining-tpv.svg" width="100%" alt="A dwarf swings at a die set in a wall until it cracks loose">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/archetypes-reel-1.svg" width="100%" alt="A reel of generated maps as small models, one after another: pillars, quarry, city, islands and canyons">
   </a>
 </td>
 </tr>
@@ -27,7 +27,7 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/scale-reveal.svg" width="100%" alt="Three generated worlds as small models, for two, four and eight players">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/mining-tpv.svg" width="100%" alt="A dwarf swings at a die set in a wall until it cracks loose">
   </a>
 </td>
 </tr>
