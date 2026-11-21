@@ -15,14 +15,14 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="media/digdice-map-reel.svg" width="100%" alt="A reel of generated maps as small models, one after another: pillars, quarry, city, islands and canyons">
+    <img src="https://github.com/con-dog/con-dog/blob/47a397aa23c0023e95bcd193497e452bdae92906/media/digdice-map-reel.svg" width="100%" alt="A reel of generated maps as small models, one after another: pillars, quarry, city, islands and canyons">
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="media/digdice-grove-tour.svg" width="100%" alt="A tour of one generated world, the grove: the camera moves in on its shrines and dwarves, stop by stop">
+    <img src="https://github.com/con-dog/con-dog/blob/47a397aa23c0023e95bcd193497e452bdae92906/media/digdice-grove-tour.svg" width="100%" alt="A tour of one generated world, the grove: the camera moves in on its shrines and dwarves, stop by stop">
   </a>
 </td>
 <td width="50%">
