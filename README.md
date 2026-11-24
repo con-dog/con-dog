@@ -1,4 +1,4 @@
-# I build weird, small, fast projects.
+# Building Small, Fast, Weird Projects
 
 ## Current Project
 
