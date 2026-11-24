@@ -1,6 +1,4 @@
-# Me
-
-I build weird, small, fast projects.
+# I build weird, small, fast projects.
 
 ## Current Project
 
