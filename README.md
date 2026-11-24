@@ -1,6 +1,6 @@
 # Me
 
-I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
+I build weird, small, fast projects.
 
 ## Current Project
 
