@@ -35,14 +35,6 @@ I build 山乇丨尺ᗪ <sub>small</sub> <em>fast</em> projects.
 
 ## Small Showcase
 
-### [DigDice](https://github.com/con-dog/dwarves-and-dice) · 0 asset files, 5 keys, every world from a seed
-
-<p>
-  <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/bcd2c5702a6a93168555fa517f148308d9c32b89/media/gifs/hatch-tpv.gif.png" width="100%" alt="DigDice: eggs crack open at the foot of a pyramid and dwarves burst out among the dice">
-  </a>
-</p>
-
 ### [clingon](https://github.com/con-dog/clingon) · 432 commands in 20 packs, run by you or an AI
 
 <p>
