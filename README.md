@@ -8,7 +8,7 @@
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/c111584/media/svgs/canyons-day-jackpot.svg" width="100%" alt="A shrine paid out in the canyons by day, seen from behind the player: the last die goes in, rays pour up and the score jumps">
+    <img src="media/digdice-canyons-jackpot.svg" width="100%" alt="A shrine paid out in the canyons by day, seen from behind the player: the last die goes in, rays pour up and the score jumps">
   </a>
 </td>
 <td width="50%">
@@ -25,7 +25,7 @@
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/c111584/media/svgs/shrine-snipe-tpv.svg" width="100%" alt="Night, seen from behind the player: a dwarf lurking by a shrine places the last die of a Three of a Kind and takes the whole payout as rays pour up">
+    <img src="media/digdice-night-snipe.svg" width="100%" alt="Night, seen from behind the player: a dwarf lurking by a shrine places the last die of a Three of a Kind and takes the whole payout as rays pour up">
   </a>
 </td>
 </tr>
