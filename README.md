@@ -8,24 +8,24 @@
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/jackpot.svg" width="100%" alt="A pair of fours finished in the grove at dusk: a dwarf sets the second die, rays pour up and the score jumps">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/c111584/media/svgs/canyons-day-jackpot.svg" width="100%" alt="A shrine paid out in the canyons by day, seen from behind the player: the last die goes in, rays pour up and the score jumps">
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/con-dog/blob/94cb3a10f1b57eaa395762c12b4f750a94b57024/media/digdice-map-reel.svg" width="100%" alt="A reel of all fifteen generated maps as small models, one after another, each named: pillars, islands, quarry, canyons, city and ten more">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/c111584/media/svgs/archetypes/city-day.svg" width="100%" alt="A whole generated world as a diorama: the city by day, its coloured blocks of houses, dice and shrines, with dwarves at work in the streets">
   </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/con-dog/blob/47a397aa23c0023e95bcd193497e452bdae92906/media/digdice-grove-tour.svg" width="100%" alt="A tour of one generated world, the grove: the camera moves in on its shrines and dwarves, stop by stop">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/c111584/media/svgs/pyramids-tour-day.svg" width="100%" alt="A tour of one generated world, the pyramids by day: the camera moves in on its shrines, dice and dwarves, stop by stop">
   </a>
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="https://github.com/con-dog/dwarves-and-dice/blob/ce998a104e243b1b12d7cfed1668025b4d2da1dc/media/svgs/whack-tpv.svg" width="100%" alt="Night in the grove: a whack lands on a dwarf and a die drops out of their tray">
+    <img src="https://github.com/con-dog/dwarves-and-dice/blob/c111584/media/svgs/shrine-snipe-tpv.svg" width="100%" alt="Night, seen from behind the player: a dwarf lurking by a shrine places the last die of a Three of a Kind and takes the whole payout as rays pour up">
   </a>
 </td>
 </tr>
