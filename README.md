@@ -25,7 +25,7 @@
 </td>
 <td width="50%">
   <a href="https://github.com/con-dog/dwarves-and-dice/blob/master/README.md">
-    <img src="media/digdice-night-snipe.svg" width="100%" alt="Night, seen from behind the player: a dwarf lurking by a shrine places the last die of a Three of a Kind and takes the whole payout as rays pour up">
+    <img src="media/digdice-night-whack.svg" width="100%" alt="Night in the grove, seen from behind the player: a whack lands on a dwarf and a die drops out of their tray">
   </a>
 </td>
 </tr>
